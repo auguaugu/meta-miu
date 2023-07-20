@@ -247,7 +247,7 @@ const Navbar = ({
           <div className="hidden md:flex flex-row gap-2">
             <Link
               className="p-4"
-              href="https://twitter.com/Meta_Miu_?s=20"
+              href="https://twitter.com/I_am_Miu_?s=20"
               target="_blank"
             >
               <TwitterIcon />
