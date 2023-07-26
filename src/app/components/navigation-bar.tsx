@@ -133,7 +133,7 @@ const Drawer = ({
           <div className="py-10 px-6 border-gray-700 border-t border-solid">
             <h1 className="font-extrabold text-2xl mb-6">META MIU</h1>
             <h6 className="text-stone-400 mb-6 text-xs">
-              © Innocus Pte. Ltd. All rights reserved.
+              Fellaz All rights reserved.
             </h6>
             <div className="flex flex-row gap-6">
               <Link
